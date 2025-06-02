@@ -14,3 +14,9 @@ The portfolio provides a brief introduction to me. It showcases some of the proj
 - **Projects:** A curated list of some of my projects. 
 - **Contact:** Find out how to reach me via email.
 
+## Tech Stack
+
+- **HTML5** – For page structure
+- **CSS3** – For layout and design
+- **JavaScript** – For interactivity
+- **Vercel** – For deployment
