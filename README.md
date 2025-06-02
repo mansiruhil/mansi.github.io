@@ -14,3 +14,10 @@ Is just a quick and simple way to get to know me, a simple portfolio I've design
 - **About Section:** A short personal bio in a terminal like style.
 - **Projects:** A curated list of some of my projects. 
 - **Contact:** Find out how to reach me via email.
+
+## Tech Stack
+
+- **HTML5** – For page structure
+- **CSS3** – For layout and design
+- **JavaScript** – For interactivity
+- **Vercel** – For deployment
