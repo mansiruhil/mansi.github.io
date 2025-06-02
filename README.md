@@ -5,8 +5,7 @@ Welcome to the open source repository of my portfolio. This web page is designed
 
 ## Overview
 
-The portfolio provides a brief introduction to me, a bit about my journey and expertise in the tech world. It showcases some of the projects I've worked on and offers various ways to get in touch.
-Is just a quick and simple way to get to know me, a simple portfolio I've designed in an hour.
+The portfolio provides a brief introduction to me. It showcases some of the projects I've worked on and offers various ways to get in touch.
 
 ### Features
 
@@ -15,9 +14,3 @@ Is just a quick and simple way to get to know me, a simple portfolio I've design
 - **Projects:** A curated list of some of my projects. 
 - **Contact:** Find out how to reach me via email.
 
-## Tech Stack
-
-- **HTML5** – For page structure
-- **CSS3** – For layout and design
-- **JavaScript** – For interactivity
-- **Vercel** – For deployment
