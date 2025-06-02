@@ -1,4 +1,4 @@
-# My simple macOS Terminal portfolio
+# A simple macOS Terminal portfolio
 
 Welcome to the open source repository of my portfolio. This web page is designed to replicate the look and feel of a macOS terminal, offering visitors an interactive and engaging way to learn more about me.
 
